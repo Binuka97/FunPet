@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fun Pet</string>
+    <string name="guess_the_breed">Guess The Breed :</string>
+    <string name="next">Next</string>
+    <string name="find">Find :</string>
+    <string name="it_s">It\'s</string>
+    <string name="from_images">From Images</string>
+    <string name="identify_the_breed">  Identify the Breed  </string>
+    <string name="identify_the_dog">    Identify the Dog    </string>
+    <string name="search_dog_breeds">  Search Dog Breeds  </string>
+    <string name="submit">SUBMIT</string>
+    <string name="switch_on_to_play_with_timer">Switch on to play with timer!</string>
+    <string name="a_quiz_to_test_your_knowledge_about_dogs">A quiz to test your knowledge about dogs</string>
+    <string name="funpet">FunPet!</string>
+    <string name="stop">Stop</string>
+    <string name="extend_your_knowledge">Extend Your Knowledge!</string>
+    <string name="submit_btn">Submit</string>
+    <string name="enter_the_name_of_a_breed">Enter the Name of a Breed :</string>
+    <string name="name_of_a_breed">Name of a Breed</string>
+
+
+</resources>
